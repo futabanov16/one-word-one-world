@@ -1,0 +1,6 @@
+# Backend has its own Sites-managed repository and deployment.
+/tongpin/
+**/node_modules/
+**/dist/
+.env*
+.DS_Store
