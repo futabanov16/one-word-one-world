@@ -1,8 +1,8 @@
-# 同频 · one-world-one-world
+# 同频 · one-word-one-world
 
 一个简约手绘风的 2–4 人在线词语默契游戏。
 
-网站：https://futabanov16.github.io/one-world-one-world/
+网站：https://futabanov16.github.io/one-word-one-world/
 
 ## 开发
 
